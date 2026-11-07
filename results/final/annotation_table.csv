@@ -1,0 +1,11 @@
+subject_accession,subject_title,alignment_length,percent_identity,query_coverage_approx_percent,e_value,bit_score
+NM_001101,"gi|1519311456|ref|NM_001101.5| Homo sapiens actin beta (ACTB), mRNA",1812,100.0,100.0,0.0,3347.25
+AK025375,"gi|10437878|dbj|AK025375.1| Homo sapiens cDNA: FLJ21722 fis, clone COLF0522, highly similar to HSACTB Homo sapiens ACTB mRNA for mutant beta-actin (beta'-actin)",1809,99.94,99.83,0.0,3334.32
+AK058019,"gi|16554019|dbj|AK058019.1| Homo sapiens cDNA FLJ25290 fis, clone STM07156, highly similar to ACTIN, CYTOPLASMIC 1",1804,100.0,99.56,0.0,3332.48
+AK130157,"gi|34526902|dbj|AK130157.1| Homo sapiens cDNA FLJ26647 fis, clone MPE04710, highly similar to Actin, cytoplasmic 1",1805,99.94,99.61,0.0,3326.94
+BC021242,"gi|18204615|gb|BC021242.1| Synthetic construct Homo sapiens solute carrier family 7 (cationic amino acid transporter, y+ system), member 3, mRNA (cDNA clone IMAGE:3677363), **** WARNING: chimeric clone ****",1799,100.0,99.28,0.0,3323.24
+BC014861,"gi|15928802|gb|BC014861.1| Homo sapiens actin, beta, mRNA (cDNA clone MGC:8968 IMAGE:3870487), complete cds",1799,100.0,99.28,0.0,3323.24
+BC013380,"gi|33878222|gb|BC013380.2| Homo sapiens actin, beta, mRNA (cDNA clone MGC:16525 IMAGE:4025526), complete cds",1801,99.94,99.39,0.0,3319.55
+AK223032,"gi|62897624|dbj|AK223032.1| Homo sapiens mRNA for beta actin variant, clone: JTH03396",1809,99.78,99.83,0.0,3317.7
+AK222925,"gi|62897408|dbj|AK222925.1| Homo sapiens mRNA for beta actin variant, clone: HRC07191",1815,99.67,100.0,0.0,3315.86
+BC016045,"gi|16359157|gb|BC016045.1| Homo sapiens actin, beta, mRNA (cDNA clone MGC:20387 IMAGE:4564532), complete cds",1800,99.89,99.34,0.0,3314.01
